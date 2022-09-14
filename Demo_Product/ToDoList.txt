@@ -1,0 +1,12 @@
+﻿Arama İşlemi
+Üyelik Sistemi
+Identity
+Yardım Popup
+Footer+
+Ayarlar
+Giriş Yap
+Çıkış Yap
+Yeni Üye Kaydı
+Admin --> AspNet User
+Publish
+Projenin Canlıya Taşınması
